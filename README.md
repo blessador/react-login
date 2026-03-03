@@ -28,20 +28,26 @@ Follow these instructions to run the project locally.
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/blessador/react-login-portal.git
 cd react-login-portal
 
-2. Install dependencies
-npm install
+---
 
-3. Run the development server
+### **2. Install dependencies**
+
+npm install
+---
+
+### **3. Run the development server**
+
 npm start
 Open http://localhost:3000
  in your browser to view the app.
 The page will reload automatically if you make edits.
 
-Build for Production
+---
+
+### **Build for Production**
 
 To create an optimized production build:
 
