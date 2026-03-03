@@ -1,4 +1,4 @@
-# Dark Login Portal
+# React Login Portal
 
 A **responsive, dark-themed authentication portal** built with **React + TypeScript**.  
 This frontend-only login interface is designed for quick prototyping and demonstration of authentication workflows.  
@@ -18,7 +18,6 @@ This frontend-only login interface is designed for quick prototyping and demonst
 ## Demo Screenshot
 
 ![Login Screenshot](./public/assets/login-screenshot.png)  
-*Replace with your own screenshot if needed.*
 
 ---
 
